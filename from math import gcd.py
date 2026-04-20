@@ -14,11 +14,11 @@ top_symbols = ["AC", "+/-", "%"]
 row_count = len(button_values) #5
 column_count = len(button_values[0]) #4
 
-color_light_gray = "#EE8489"
-color_black = "#1C1C1C"
-color_dark_gray = "#E76164"
-color_orange = "#F9C9CC"
-color_white = "white"
+color_light_gray = "#D3D3D3"   
+color_dark_gray = "#505050"    
+color_orange = "#FF9500"       
+color_black = "#000000"
+color_white = "#FFFFFF"
 
 window = tkinter.Tk() 
 window.title("Calculator")
